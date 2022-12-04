@@ -1,7 +1,9 @@
+Hi! 👋
+
 This repository contains my notes on Git.
 If you're a learner, enjoy!
 
-# Contents
+# 📚 Contents
 
 1. [Initialization](https://github.com/Dhar01/Git-Notes/blob/main/01_Initialization.md) 
 2. [Commits](https://github.com/Dhar01/Git-Notes/blob/main/02_Commits.md)
